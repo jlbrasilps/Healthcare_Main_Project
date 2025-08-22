@@ -101,3 +101,10 @@ Open-source backend (Appwrite) and free deployment (Vercel)
 
 Thank you for visiting! If you like this project, please star the repo and follow me on GitHub.
 Happy coding! 🚀
+
+
+https://github.com/user-attachments/assets/e1952faf-23d1-4363-83c4-b7cc75769ba2
+
+<img width="1781" height="964" alt="appointment" src="https://github.com/user-attachments/assets/e30a3c7d-079c-42a6-8969-2c8a445075fa" />
+<img width="1838" height="911" alt="data2" src="https://github.com/user-attachments/assets/a93edfe2-19ee-40b6-b3f8-4450f2b8fb05" />
+<img width="1839" height="920" alt="dashboard" src="https://github.com/user-attachments/assets/a5745f84-abcf-4e66-b648-0e139ba60d85" />
